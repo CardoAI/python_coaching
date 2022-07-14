@@ -16,3 +16,26 @@ read the docs:
  - epydoc
  - sphinx
 """
+
+
+class A:
+    """
+
+    """
+
+
+def main(a, b, c):
+    """
+    >>> main(1, 2, 3)
+    6
+
+    Describe the function.
+    Args:
+        a:
+        b:
+        c:
+
+    Returns:
+
+    """
+    return a + b + c

@@ -1,0 +1,2 @@
+class OrganizationAccessError(Exception):
+    pass
